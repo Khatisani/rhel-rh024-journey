@@ -1,0 +1,1 @@
+# rhel-rh024-journey
