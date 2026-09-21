@@ -9,3 +9,5 @@ Documenting my journey through the free Red Hat RH024 course, focusing on core L
 - [x] **01: Linux Distributions & Ecosystem** — [`cheatsheets/01-linux-distributions.md`](cheatsheets/01-linux-distributions.md)
 - [x] **02: Introduction to the Linux Shell** — [`cheatsheets/02-intro-to-shell.md`](cheatsheets/02-intro-to-shell.md)
 - [x] **03: Getting Help & Manual Pages (man)** — [`cheatsheets/03-documentation.md`](cheatsheets/03-documentation.md)
+- [x] **04: Command Line Assistant (RHEL Lightspeed)** — [`cheatsheets/04-command-line-assistant.md`](cheatsheets/04-command-line-assistant.md)
+
