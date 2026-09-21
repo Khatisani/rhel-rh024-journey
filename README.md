@@ -12,3 +12,4 @@ Documenting my journey through the free Red Hat RH024 course, focusing on core L
 - [x] **04: Command Line Assistant (RHEL Lightspeed)** — [`cheatsheets/04-command-line-assistant.md`](cheatsheets/04-command-line-assistant.md)
 - [x] **05: Linux Directories & Filesystem Hierarchy** — [`cheatsheets/05-linux-directories.md`](cheatsheets/05-linux-directories.md)
 - [x] **06: Basic File Management** — [`cheatsheets/06-basic-file-management.md`](cheatsheets/06-basic-file-management.md)
+- [x] **07: Editing Files with Vim** — [`cheatsheets/07-editing-files-with-vim.md`](cheatsheets/07-editing-files-with-vim.md)
