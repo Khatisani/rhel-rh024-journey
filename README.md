@@ -10,4 +10,4 @@ Documenting my journey through the free Red Hat RH024 course, focusing on core L
 - [x] **02: Introduction to the Linux Shell** — [`cheatsheets/02-intro-to-shell.md`](cheatsheets/02-intro-to-shell.md)
 - [x] **03: Getting Help & Manual Pages (man)** — [`cheatsheets/03-documentation.md`](cheatsheets/03-documentation.md)
 - [x] **04: Command Line Assistant (RHEL Lightspeed)** — [`cheatsheets/04-command-line-assistant.md`](cheatsheets/04-command-line-assistant.md)
-
+- [x] **05: Linux Directories & Filesystem Hierarchy** — [`cheatsheets/05-linux-directories.md`](cheatsheets/05-linux-directories.md)
