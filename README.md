@@ -13,3 +13,5 @@ Documenting my journey through the free Red Hat RH024 course, focusing on core L
 - [x] **05: Linux Directories & Filesystem Hierarchy** — [`cheatsheets/05-linux-directories.md`](cheatsheets/05-linux-directories.md)
 - [x] **06: Basic File Management** — [`cheatsheets/06-basic-file-management.md`](cheatsheets/06-basic-file-management.md)
 - [x] **07: Editing Files with Vim** — [`cheatsheets/07-editing-files-with-vim.md`](cheatsheets/07-editing-files-with-vim.md)
+- [x] **08: Organizing Local Users and Groups** — [`cheatsheets/08-organizing-local-users-and-groups.md`](cheatsheets/08-organizing-local-users-and-groups.md)
+- [ ] 09: Linux File System Permissions
