@@ -16,3 +16,4 @@ Documenting my journey through the free Red Hat RH024 course, focusing on core L
 - [x] **08: Organizing Local Users and Groups** — [`cheatsheets/08-organizing-local-users-and-groups.md`](cheatsheets/08-organizing-local-users-and-groups.md)
 - [x] **09: Linux File System Permissions** — [`cheatsheets/09-file-permissions.md`](cheatsheets/09-file-permissions.md)
 - [x] **10: Managing Software and Updates** — [`cheatsheets/10-managing-software-and-updates.md`](cheatsheets/10-managing-software-and-updates.md)
+- [x] **11: Managing Networking** — [`cheatsheets/11-managing-networking.md`](cheatsheets/11-managing-networking.md)
