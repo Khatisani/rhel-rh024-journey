@@ -18,3 +18,4 @@ Documenting my journey through the free Red Hat RH024 course, focusing on core L
 - [x] **10: Managing Software and Updates** — [`cheatsheets/10-managing-software-and-updates.md`](cheatsheets/10-managing-software-and-updates.md)
 - [x] **11: Managing Networking** — [`cheatsheets/11-managing-networking.md`](cheatsheets/11-managing-networking.md)
 - [x] **12: Managing System Startup Services with systemd** — [`cheatsheets/12-managing-systemd-services.md`](cheatsheets/12-managing-systemd-services.md)
+- [x] **13: Deploying an Application Runtime** — [`cheatsheets/13-deploying-an-application-runtime.md`](cheatsheets/13-deploying-an-application-runtime.md)

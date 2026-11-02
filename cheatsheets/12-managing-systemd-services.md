@@ -78,6 +78,9 @@ Inspect the active execution state, exit codes, PID, and most recent journal log
 systemctl status httpd
 ```
 
+---
+
+
 ## 4. Opening Ports with `firewalld`
 
 Even if a service is running and bound to port 80, the Linux kernel firewall blocks external incoming traffic by default.
@@ -102,6 +105,9 @@ Inspect all active rules, allowed ports, and permitted services:
 ```Bash
 sudo firewall-cmd --list-all
 ```
+
+---
+
 
 ## 5. Terminal Productivity: History Expansion Shortcuts
 
