@@ -20,3 +20,4 @@ Documenting my journey through the free Red Hat RH024 course, focusing on core L
 - [x] **12: Managing System Startup Services with systemd** — [`cheatsheets/12-managing-systemd-services.md`](cheatsheets/12-managing-systemd-services.md)
 - [x] **13: Deploying an Application Runtime** — [`cheatsheets/13-deploying-an-application-runtime.md`](cheatsheets/13-deploying-an-application-runtime.md)
 - [x] **14: Using Image Mode with Bootc** — [`cheatsheets/14-using-image-mode-with-bootc.md`](cheatsheets/14-using-image-mode-with-bootc.md)
+- [x] **15: Red Hat Insights & Image Builder** — [`cheatsheets/15-red-hat-insights-and-image-builder.md`](cheatsheets/15-red-hat-insights-and-image-builder.md)
