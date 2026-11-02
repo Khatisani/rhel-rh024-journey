@@ -19,3 +19,4 @@ Documenting my journey through the free Red Hat RH024 course, focusing on core L
 - [x] **11: Managing Networking** — [`cheatsheets/11-managing-networking.md`](cheatsheets/11-managing-networking.md)
 - [x] **12: Managing System Startup Services with systemd** — [`cheatsheets/12-managing-systemd-services.md`](cheatsheets/12-managing-systemd-services.md)
 - [x] **13: Deploying an Application Runtime** — [`cheatsheets/13-deploying-an-application-runtime.md`](cheatsheets/13-deploying-an-application-runtime.md)
+- [x] **14: Using Image Mode with Bootc** — [`cheatsheets/14-using-image-mode-with-bootc.md`](cheatsheets/14-using-image-mode-with-bootc.md)
